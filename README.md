@@ -111,16 +111,6 @@ Responsive job-listing and dashboard UI, modular frontend refactor, API-backed p
 Internship task set: C++ and Python projects shipped during the CodSoft programs.
 
 `C++` `Python`
-
-</td>
-<td width="50%" valign="top">
-
-//#### [hacka](https://github.com/AaryaShrivaastava/hacka)
-//TypeScript build from hackathon / experiment work.
-
-//`TypeScript`
-
-</td>
 </tr>
 </table>
 
