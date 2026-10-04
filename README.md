@@ -87,7 +87,7 @@ open to    internships, freelance, and collabs
 <tr>
 <td width="50%" valign="top">
 
-#### [Gait Guard](http://aarya-shrivaastava.vercel.app/) · team lead
+#### [Gait Guard](need_to_fill) · team lead
 ML gait-abnormality detection.
 
 ETL over **10k+** multimodal samples (video, image, keypoints). Standardized **5** clinical datasets. CNN + LSTM work that lifted baseline accuracy **12%**.
@@ -115,10 +115,10 @@ Internship task set: C++ and Python projects shipped during the CodSoft programs
 </td>
 <td width="50%" valign="top">
 
-#### [hacka](https://github.com/AaryaShrivaastava/hacka)
-TypeScript build from hackathon / experiment work.
+//#### [hacka](https://github.com/AaryaShrivaastava/hacka)
+//TypeScript build from hackathon / experiment work.
 
-`TypeScript`
+//`TypeScript`
 
 </td>
 </tr>
