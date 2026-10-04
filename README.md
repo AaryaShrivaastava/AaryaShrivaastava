@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/173633036?v=4" width="140" alt="Aarya Shrivaastava"/>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,50:6D28D9,100:A78BFA&height=190&section=header&text=Aarya%20Shrivaastava&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Full-Stack%20Engineer%20%C2%B7%20AI%20Builder%20%C2%B7%20CSE%20%40%20VIT%20Bhopal&descAlignY=56&descAlign=50&fontAlign=50" width="100%"/>
 
 ### building AI-driven backends and full-stack products — one clean API at a time.
