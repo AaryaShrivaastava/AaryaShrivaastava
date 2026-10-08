@@ -51,7 +51,7 @@ class AaryaShrivaastava:
 ## Experience
 
 <details open>
-<summary><b>DataObserve LLC — Full Stack Engineer Intern</b> &nbsp;|&nbsp; June 2026 – Present &nbsp;|&nbsp; Remote</summary>
+<summary><b>DataObserve LLC — Full Stack Engineer Intern</b> &nbsp;|&nbsp; June 2026 – Present &nbsp;|&nbsp;Houston, Texas, USA (Remote)</summary>
 
 <br/>
 
