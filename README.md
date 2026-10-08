@@ -1,14 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&section=header&text=AARYA%20SHRIVAASTAVA&fontSize=52&fontAlignY=38&desc=SOFTWARE%20ENGINEER%20%7C%20FULL%20STACK%20ENGINEER%20%7C%20AI%20%26%20BACKEND%20ENGINEERING&descAlignY=58&animation=fadeIn&fontColor=ffffff&color=0F172A" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:1E293B&height=240&section=header&text=AARYA%20SHRIVAASTAVA&fontSize=46&fontAlignY=34&fontColor=ffffff&desc=Software%20Engineer%20%7C%20Full%20Stack%20%7C%20AI%20%26%20Backend&descAlignY=56&descSize=18" width="100%" alt="Aarya Shrivaastava"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=000000&background=00000000&center=true&vCenter=true&width=760&lines=Full+Stack+Engineer+%7C+AI+%26+Backend+Engineering;Building+AI-Driven+Platforms+%26+Scalable+APIs;B.Tech+CSE+%40+VIT+Bhopal+%7C+CGPA+9.07;Python+%7C+C%2B%2B+%7C+FastAPI+%7C+Langflow+%7C+Cloud;AI+Observability+%7C+APIs+%7C+Data+Infrastructure" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F8FAFC&background=00000000&center=true&vCenter=true&width=760&lines=Full+Stack+Engineer+%7C+AI+%26+Backend+Engineering;Building+AI-Driven+Platforms+%26+Scalable+APIs;B.Tech+CSE+%40+VIT+Bhopal+%7C+CGPA+9.07;Python+%7C+C%2B%2B+%7C+FastAPI+%7C+Langflow+%7C+Cloud;AI+Observability+%7C+APIs+%7C+Data+Infrastructure">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0F172A&background=00000000&center=true&vCenter=true&width=760&lines=Full+Stack+Engineer+%7C+AI+%26+Backend+Engineering;Building+AI-Driven+Platforms+%26+Scalable+APIs;B.Tech+CSE+%40+VIT+Bhopal+%7C+CGPA+9.07;Python+%7C+C%2B%2B+%7C+FastAPI+%7C+Langflow+%7C+Cloud;AI+Observability+%7C+APIs+%7C+Data+Infrastructure" alt="Typing intro"/>
+</picture>
 
 <br/><br/>
-
-...
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%23000000.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aarya-shrivaastava-7b198b2a3/)
 [![GitHub](https://img.shields.io/badge/GitHub-%23000000.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AaryaShrivaastava)
@@ -23,34 +24,34 @@
 
 ```python
 class AaryaShrivaastava:
-    name       = "Aarya Shrivaastava"
-    education  = "B.Tech CSE @ VIT Bhopal"
-    cgpa       = 9.07
+    name = "Aarya Shrivaastava"
+    education = "B.Tech CSE @ VIT Bhopal"
+    cgpa = 9.07
     graduation = 2027
 
-    currently  = [
+    currently = [
         "Full Stack Engineer Intern @ DataObserve",
         "Building AI-driven platforms with Python & Langflow",
-        "Engineering scalable APIs & AI integrations"
+        "Engineering scalable APIs & AI integrations",
     ]
 
-    domains    = [
+    domains = [
         "AI / ML",
         "Backend & API Engineering",
         "Full Stack Development",
         "Cloud & Databases",
-        "Data Engineering"
+        "Data Engineering",
     ]
 
-    focus      = "Building practical AI systems that scale"
+    focus = "Building practical AI systems that scale"
 ```
 
 ---
 
-## 💼 Experience
+## Experience
 
 <details open>
-<summary><b>🔵 DataObserve LLC — Full Stack Engineer Intern</b> &nbsp;|&nbsp; June 2026 – Present &nbsp;|&nbsp; Remote</summary>
+<summary><b>DataObserve LLC — Full Stack Engineer Intern</b> &nbsp;|&nbsp; June 2026 – Present &nbsp;|&nbsp; Remote</summary>
 
 <br/>
 
@@ -70,7 +71,7 @@ class AaryaShrivaastava:
 <br/>
 
 <details>
-<summary><b>🟣 Schoolnet India Pvt Ltd — Technology Intern</b> &nbsp;|&nbsp; May 2025 – June 2025 &nbsp;|&nbsp; Remote</summary>
+<summary><b>Schoolnet India Pvt Ltd — Technology Intern</b> &nbsp;|&nbsp; May 2025 – June 2025 &nbsp;|&nbsp; Remote</summary>
 
 <br/>
 
@@ -87,9 +88,9 @@ class AaryaShrivaastava:
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🟢 Gait Guard — ML-Based Gait Abnormality Detection
+### Gait Guard — ML-Based Gait Abnormality Detection
 
 > Research & Data Engineering
 
@@ -102,7 +103,7 @@ class AaryaShrivaastava:
 
 ---
 
-### 🔵 Job Portal Web Application
+### Job Portal Web Application
 
 > Frontend & API Development
 
@@ -115,7 +116,7 @@ class AaryaShrivaastava:
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Languages
 
@@ -159,33 +160,33 @@ class AaryaShrivaastava:
 
 ---
 
-## 🎓 Education
+## Education
 
 | Degree | Institution | Score | Period |
-|---|---|---:|---|
+| --- | --- | ---: | --- |
 | B.Tech — Computer Science & Engineering | VIT Bhopal University | **9.07 CGPA** | 2023 – 2027 |
 
 ---
 
-## 🏆 Certifications & Achievements
+## Certifications & Achievements
 
 ```text
 ┌──────────────────────────────────────────────────────────────────┐
-│  🥇  NPTEL Elite + Gold — Marketing Analytics                   │
-│      99% Score • Top 1% among 3,495 candidates                  │
+│  NPTEL Elite + Gold — Marketing Analytics                        │
+│  99% Score • Top 1% among 3,495 candidates                       │
 │                                                                  │
-│  🤖  NPTEL Elite — Introduction to Machine Learning             │
+│  NPTEL Elite — Introduction to Machine Learning                  │
 │                                                                  │
-│  💻  HackerRank — 4-Star in C++                                 │
-│      HackerRank — 3-Star in Python                              │
+│  HackerRank — 4-Star in C++                                      │
+│  HackerRank — 3-Star in Python                                   │
 │                                                                  │
-│  🎓  CGPA — 9.07 / 10 • B.Tech CSE • VIT Bhopal                │
+│  CGPA — 9.07 / 10 • B.Tech CSE • VIT Bhopal                      │
 └──────────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-## 🌟 Leadership & Community
+## Leadership & Community
 
 - **PR & Outreach Lead, AI Club — VIT Bhopal**
   - Coordinated **5+ technical events** for **200+ attendees**.
@@ -197,32 +198,28 @@ class AaryaShrivaastava:
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AaryaShrivaastava&show_icons=true&hide_border=true&theme=transparent" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=AaryaShrivaastava&show_icons=true&hide_border=true&theme=transparent&title_color=0F172A&text_color=334155&icon_color=0F172A" height="165" alt="GitHub stats"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=AaryaShrivaastava&theme=dark&background=000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&border=333333" height="165"/>
+<img src="https://streak-stats.demolab.com?user=AaryaShrivaastava&theme=dark&background=0F172A&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&border=1E293B&hide_border=false" height="165" alt="GitHub streak"/>
 
 </div>
 
 ---
 
-## 🔭 What I Build
-
-<div align="center">
+## What I Build
 
 | Domain | Focus |
-|---|---|
-| 🤖 AI Engineering | AI Platforms, AI Agents, Generative AI |
-| ⚙️ Backend Engineering | APIs, Integrations, Scalable Services |
-| 🧠 Machine Learning | CNNs, LSTMs, GRUs, Model Pipelines |
-| ☁️ Cloud | AWS, GCP, Cloud Architecture |
-| 🗄️ Data | PostgreSQL, MySQL, ETL, Large Datasets |
-| 🌐 Full Stack | React, Vite, Tailwind CSS, API-driven Applications |
-
-</div>
+| --- | --- |
+| AI Engineering | AI Platforms, AI Agents, Generative AI |
+| Backend Engineering | APIs, Integrations, Scalable Services |
+| Machine Learning | CNNs, LSTMs, GRUs, Model Pipelines |
+| Cloud | AWS, GCP, Cloud Architecture |
+| Data | PostgreSQL, MySQL, ETL, Large Datasets |
+| Full Stack | React, Vite, Tailwind CSS, API-driven Applications |
 
 ---
 
