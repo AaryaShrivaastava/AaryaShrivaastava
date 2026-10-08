@@ -1,142 +1,241 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,50:6D28D9,100:A78BFA&height=190&section=header&text=Aarya%20Shrivaastava&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Full-Stack%20Engineer%20%C2%B7%20AI%20Builder%20%C2%B7%20CSE%20%40%20VIT%20Bhopal&descAlignY=56&descAlign=50&fontAlign=50" width="100%"/>
+# AARYA SHRIVAASTAVA
 
-### building AI-driven backends and full-stack products — one clean API at a time.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFFFFF&background=00000000&center=true&vCenter=true&width=760&lines=Full+Stack+Engineer+%7C+AI+%26+Backend+Engineering;Building+AI-Driven+Platforms+%26+Scalable+APIs;B.Tech+CSE+%40+VIT+Bhopal+%7C+CGPA+9.07;Python+%7C+C%2B%2B+%7C+FastAPI+%7C+Langflow+%7C+Cloud;AI+Observability+%7C+APIs+%7C+Data+Infrastructure" alt="Typing SVG" />
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-aarya--shrivaastava.vercel.app-6D28D9?style=for-the-badge&logo=vercel&logoColor=white)](http://aarya-shrivaastava.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aarya%20Shrivaastava-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aarya-shrivaastava-7b198b2a3/)
-[![Email](https://img.shields.io/badge/Email-say%20hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aarya.shrivaastava1026@gmail.com)
+<br/>
 
-<img src="https://komarev.com/ghpvc/?username=AaryaShrivaastava&style=flat-square&color=6D28D9" alt="profile views"/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%23000000.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aarya-shrivaastava-7b198b2a3/)
+[![GitHub](https://img.shields.io/badge/GitHub-%23000000.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AaryaShrivaastava)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://aarya-shrivaastava.vercel.app/)
+[![Gmail](https://img.shields.io/badge/Email-%23000000.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aarya.shrivaastava1026@gmail.com)
 
 </div>
 
-<br/>
+---
 
-<table>
-<tr>
-<td width="58%" valign="top">
+## `whoami`
 
-### about
+```python
+class AaryaShrivaastava:
+    name       = "Aarya Shrivaastava"
+    education  = "B.Tech CSE @ VIT Bhopal"
+    cgpa       = 9.07
+    graduation = 2027
 
-CSE @ **VIT Bhopal** (2023–2027) · **9.07 CGPA**
+    currently  = [
+        "Full Stack Engineer Intern @ DataObserve",
+        "Building AI-driven platforms with Python & Langflow",
+        "Engineering scalable APIs & AI integrations"
+    ]
 
-Full Stack Engineer Intern @ **DataObserve LLC** — AI platforms, Langflow, REST APIs, and cloud-backed product work.
+    domains    = [
+        "AI / ML",
+        "Backend & API Engineering",
+        "Full Stack Development",
+        "Cloud & Databases",
+        "Data Engineering"
+    ]
 
-I like problems where engineering, data, and intelligent systems meet. Own it from the messy first version through testing, refinement, and something that actually holds up.
-
-- PR & Outreach Lead, AI Club · VIT Bhopal
-- Finance & Sponsorship, E-Cell · VIT Bhopal
-- Previously: Technology Intern @ Schoolnet India (EdTech, 1M+ users)
-
-</td>
-<td width="42%" valign="top">
-
-<img src="https://github-readme-stats.vercel.app/api?username=AaryaShrivaastava&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c4b5fd&icon_color=a78bfa&text_color=e5e7eb&ring_color=8b5cf6" width="100%" alt="GitHub stats"/>
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-### now
-
-```text
-intern     DataObserve LLC  ·  AI backends, Langflow, APIs, cloud
-learning   DSA + production full-stack (FastAPI, React, Postgres)
-building   gait analysis ML  ·  job portal UI  ·  agent tooling
-open to    internships, freelance, and collabs
+    focus      = "Building practical AI systems that scale"
 ```
 
+---
+
+## 💼 Experience
+
+<details open>
+<summary><b>🔵 DataObserve LLC — Full Stack Engineer Intern</b> &nbsp;|&nbsp; June 2026 – Present &nbsp;|&nbsp; Remote</summary>
+
 <br/>
 
-### stack
+> **AI Platforms, Backend Engineering & API Development**
 
-**languages**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+- Architecting diverse **AI-driven platforms from scratch** using **Python and Langflow**, translating business requirements into technical outcomes through **5+ tool integrations**.
+- Collaborating with cross-functional teams to enhance **UI components for AI chat applications**, supporting application development and system integration.
+- Engineering **scalable APIs** handling high-volume daily requests and integrating core backends with **3 generative AI models**.
+- Performing development, unit testing, test-data preparation, and test execution across **15+ API endpoints** using Postman.
+- Leveraging AI agents to diagnose errors and reduce API payload bottlenecks.
+- Analyzing **PostgreSQL and GCP database schemas and large datasets** to identify patterns and support optimized data retrieval.
 
-**backend · ai · data**  
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+**Stack:** `Python` `Langflow` `FastAPI` `Flask` `PostgreSQL` `GCP` `API Integration` `Postman` `AI Agents`
+
+</details>
+
+<br/>
+
+<details>
+<summary><b>🟣 Schoolnet India Pvt Ltd — Technology Intern</b> &nbsp;|&nbsp; May 2025 – June 2025 &nbsp;|&nbsp; Remote</summary>
+
+<br/>
+
+> **Cloud Infrastructure, Security & Enterprise Documentation**
+
+- Supported **data privacy, security, and risk management** applications and controls for an EdTech platform serving **1M+ users**.
+- Analyzed cloud infrastructure, including resource allocation and traffic routing.
+- Created and maintained **technical, functional, and process documentation** for enterprise-level cloud architecture.
+- Documented scalable deployment models to support and reduce developer onboarding time.
+
+**Stack:** `Cloud Infrastructure` `Security` `Risk Management` `Technical Documentation`
+
+</details>
+
+---
+
+## 🚀 Featured Projects
+
+### 🟢 Gait Guard — ML-Based Gait Abnormality Detection
+
+> Research & Data Engineering
+
+- Led cross-functional work to engineer robust **ETL pipelines** for **10,000+ multimodal data samples** including videos, images, and keypoints.
+- Aggregated clinical data across **5 datasets**, establishing a standardized baseline for ML model training and validation.
+- Analyzed large datasets to identify patterns and generate insights for model development.
+- Contributed to **CNN and LSTM model integration**, improving baseline accuracy by **12%**.
+
+**Stack:** `Python` `ETL` `CNN` `LSTM` `Data Analysis` `Multimodal Data`
+
+---
+
+### 🔵 Job Portal Web Application
+
+> Frontend & API Development
+
+- Built responsive UI components for a job portal with a focus on improved page performance.
+- Engineered **job listing pages and dashboard layouts** with targeted UI enhancements.
+- Adapted and refactored modular components from an open-source frontend codebase.
+- Worked with a modern frontend stack including **React, Vite, Tailwind CSS and shadcn/ui**.
+
+**Stack:** `React` `Vite` `Tailwind CSS` `shadcn/ui` `APIs`
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-000000?style=flat-square&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-000000?style=flat-square&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-000000?style=flat-square&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-000000?style=flat-square&logo=postgresql&logoColor=white)
+
+### Backend & API Engineering
+
+![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=flat-square&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Langflow](https://img.shields.io/badge/Langflow-6D28D9?style=flat-square)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![ETL](https://img.shields.io/badge/ETL-8B5CF6?style=flat-square)
+![Langflow](https://img.shields.io/badge/Langflow-000000?style=flat-square)
+![Postman](https://img.shields.io/badge/Postman-000000?style=flat-square&logo=postman&logoColor=white)
+![API Integration](https://img.shields.io/badge/API_Integration-000000?style=flat-square)
 
-**cloud · tools**  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+### AI / ML
+
+![CNN](https://img.shields.io/badge/CNN-000000?style=flat-square)
+![LSTM](https://img.shields.io/badge/LSTM-000000?style=flat-square)
+![GRU](https://img.shields.io/badge/GRU-000000?style=flat-square)
+
+### Databases & Cloud
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=mysql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-000000?style=flat-square&logo=amazonwebservices&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-000000?style=flat-square&logo=googlecloud&logoColor=white)
+![ETL](https://img.shields.io/badge/ETL-000000?style=flat-square)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-000000?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-000000?style=flat-square)
 
-<br/>
+---
 
-### selected work
+## 🎓 Education
 
-<table>
-<tr>
-<td width="50%" valign="top">
+| Degree | Institution | Score | Period |
+|---|---|---:|---|
+| B.Tech — Computer Science & Engineering | VIT Bhopal University | **9.07 CGPA** | 2023 – 2027 |
 
-#### [Gait Guard](need_to_fill) · team lead
-ML gait-abnormality detection.
+---
 
-ETL over **10k+** multimodal samples (video, image, keypoints). Standardized **5** clinical datasets. CNN + LSTM work that lifted baseline accuracy **12%**.
+## 🏆 Certifications & Achievements
 
-`Python` `ETL` `CNN` `LSTM`
+```text
+┌──────────────────────────────────────────────────────────────────┐
+│  🥇  NPTEL Elite + Gold — Marketing Analytics                   │
+│      99% Score • Top 1% among 3,495 candidates                  │
+│                                                                  │
+│  🤖  NPTEL Elite — Introduction to Machine Learning             │
+│                                                                  │
+│  💻  HackerRank — 4-Star in C++                                 │
+│      HackerRank — 3-Star in Python                              │
+│                                                                  │
+│  🎓  CGPA — 9.07 / 10 • B.Tech CSE • VIT Bhopal                │
+└──────────────────────────────────────────────────────────────────┘
+```
 
-</td>
-<td width="50%" valign="top">
+---
 
-#### [Job Portal](https://github.com/AaryaShrivaastava/Job-Portal)
-Responsive job-listing and dashboard UI, modular frontend refactor, API-backed pages.
+## 🌟 Leadership & Community
 
-`JavaScript` `Frontend` `API`
+- **PR & Outreach Lead, AI Club — VIT Bhopal**
+  - Coordinated **5+ technical events** for **200+ attendees**.
+  - Managed outreach pipelines and onboarded **5+ industry speakers**.
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+- **Campus Leadership & Community Involvement**
+  - Reached out to **100+ companies** and secured corporate sponsorships through B2B pitching for E-Cell.
+  - Participated in and managed on-ground NSS volunteering activities.
 
-#### [CodSoft — C++ & Python](https://github.com/AaryaShrivaastava/CodSoftCPP)
-Internship task set: C++ and Python projects shipped during the CodSoft programs.
+---
 
-`C++` `Python`
-</tr>
-</table>
-
-<br/>
-
-### proof
-
-| | |
-|---|---|
-| **9.07 / 10** | B.Tech CSE, VIT Bhopal |
-| **99% · top 1%** | NPTEL Marketing Analytics, IIT Kharagpur — Elite + Gold (May 2026) |
-| **4★ / 3★** | HackerRank C++ / Python |
-| **71% Elite** | NPTEL Intro to Machine Learning, IIT Madras |
-
-<br/>
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AaryaShrivaastava&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c4b5fd&text_color=e5e7eb&langs_count=8" height="165" alt="top languages"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AaryaShrivaastava&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=C4B5FD" height="165" alt="streak"/>
+<img src="https://github-readme-stats.vercel.app/api?username=AaryaShrivaastava&show_icons=true&hide_border=true&theme=transparent" height="165"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=AaryaShrivaastava&theme=dark&background=000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&border=333333" height="165"/>
+
+</div>
+
+---
+
+## 🔭 What I Build
+
+<div align="center">
+
+| Domain | Focus |
+|---|---|
+| 🤖 AI Engineering | AI Platforms, AI Agents, Generative AI |
+| ⚙️ Backend Engineering | APIs, Integrations, Scalable Services |
+| 🧠 Machine Learning | CNNs, LSTMs, GRUs, Model Pipelines |
+| ☁️ Cloud | AWS, GCP, Cloud Architecture |
+| 🗄️ Data | PostgreSQL, MySQL, ETL, Large Datasets |
+| 🌐 Full Stack | React, Vite, Tailwind CSS, API-driven Applications |
+
+</div>
+
+---
+
+<div align="center">
+
+> **"Build things that solve real problems. Make them scale."**
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,100:A78BFA&height=100&section=footer" width="100%"/>
+### Let's build something that matters.
 
-**open to internships, freelance, and collaborations.**  
-[portfolio](http://aarya-shrivaastava.vercel.app/) · [linkedin](https://www.linkedin.com/in/aarya-shrivaastava-7b198b2a3/) · [email](mailto:aarya.shrivaastava1026@gmail.com)
+[![Connect on LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-%23000000.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aarya-shrivaastava-7b198b2a3/)
+[![Portfolio](https://img.shields.io/badge/Visit_Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://aarya-shrivaastava.vercel.app/)
+[![Send an Email](https://img.shields.io/badge/Send_an_Email-%23000000.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aarya.shrivaastava1026@gmail.com)
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=AaryaShrivaastava&style=flat-square&color=lightgrey&label=PROFILE+VIEWS" alt="Profile Views"/>
 
 </div>
