@@ -1,20 +1,20 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:1E293B&height=240&section=header&text=AARYA%20SHRIVAASTAVA&fontSize=46&fontAlignY=34&fontColor=ffffff&desc=Software%20Engineer%20%7C%20Full%20Stack%20%7C%20AI%20and%20Backend&descAlignY=56&descSize=18" width="100%" alt="Aarya Shrivaastava"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:6D28D9,100:7C3AED&height=240&section=header&text=AARYA%20SHRIVAASTAVA&fontSize=46&fontAlignY=34&fontColor=ffffff&desc=Software%20Engineer%20%7C%20Full%20Stack%20%7C%20AI%20and%20Backend&descAlignY=56&descSize=18" width="100%" alt="Aarya Shrivaastava"/>
 
 <br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F8FAFC&background=00000000&center=true&vCenter=true&width=760&lines=Full+Stack+Engineer+%7C+AI+and+Backend+Engineering;Building+AI-Driven+Platforms+and+Scalable+APIs;B.Tech+CSE+%40+VIT+Bhopal+%7C+CGPA+9.07;Python+%7C+C%2B%2B+%7C+FastAPI+%7C+Langflow+%7C+Cloud;AI+Observability+%7C+APIs+%7C+Data+Infrastructure">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0F172A&background=00000000&center=true&vCenter=true&width=760&lines=Full+Stack+Engineer+%7C+AI+and+Backend+Engineering;Building+AI-Driven+Platforms+and+Scalable+APIs;B.Tech+CSE+%40+VIT+Bhopal+%7C+CGPA+9.07;Python+%7C+C%2B%2B+%7C+FastAPI+%7C+Langflow+%7C+Cloud;AI+Observability+%7C+APIs+%7C+Data+Infrastructure" alt="Typing intro"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4F46E5&background=00000000&center=true&vCenter=true&width=760&lines=Full+Stack+Engineer+%7C+AI+and+Backend+Engineering;Building+AI-Driven+Platforms+and+Scalable+APIs;B.Tech+CSE+%40+VIT+Bhopal+%7C+CGPA+9.07;Python+%7C+C%2B%2B+%7C+FastAPI+%7C+Langflow+%7C+Cloud;AI+Observability+%7C+APIs+%7C+Data+Infrastructure" alt="Typing intro"/>
 </picture>
 
 <br/><br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%23000000.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aarya-shrivaastava-7b198b2a3/)
-[![GitHub](https://img.shields.io/badge/GitHub-%23000000.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AaryaShrivaastava)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://aarya-shrivaastava.vercel.app/)
-[![Gmail](https://img.shields.io/badge/Email-%23000000.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aarya.shrivaastava1026@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%234F46E5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aarya-shrivaastava-7b198b2a3/)
+[![GitHub](https://img.shields.io/badge/GitHub-%234F46E5.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AaryaShrivaastava)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%234F46E5.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://aarya-shrivaastava.vercel.app/)
+[![Gmail](https://img.shields.io/badge/Email-%234F46E5.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aarya.shrivaastava1026@gmail.com)
 
 </div>
 
@@ -120,43 +120,43 @@ class AaryaShrivaastava:
 
 ### Languages
 
-![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-000000?style=flat-square&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-000000?style=flat-square&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-000000?style=flat-square&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-000000?style=flat-square&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-4F46E5?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-4F46E5?style=flat-square&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-4F46E5?style=flat-square&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-4F46E5?style=flat-square&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4F46E5?style=flat-square&logo=postgresql&logoColor=white)
 
 ### Backend & API Engineering
 
-![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=flat-square&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Langflow](https://img.shields.io/badge/Langflow-000000?style=flat-square)
-![Postman](https://img.shields.io/badge/Postman-000000?style=flat-square&logo=postman&logoColor=white)
-![API Integration](https://img.shields.io/badge/API_Integration-000000?style=flat-square)
+![FastAPI](https://img.shields.io/badge/FastAPI-4F46E5?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-4F46E5?style=flat-square&logo=flask&logoColor=white)
+![Langflow](https://img.shields.io/badge/Langflow-4F46E5?style=flat-square)
+![Postman](https://img.shields.io/badge/Postman-4F46E5?style=flat-square&logo=postman&logoColor=white)
+![API Integration](https://img.shields.io/badge/API_Integration-4F46E5?style=flat-square)
 
 ### AI / ML
 
-![CNN](https://img.shields.io/badge/CNN-000000?style=flat-square)
-![LSTM](https://img.shields.io/badge/LSTM-000000?style=flat-square)
-![GRU](https://img.shields.io/badge/GRU-000000?style=flat-square)
+![CNN](https://img.shields.io/badge/CNN-4F46E5?style=flat-square)
+![LSTM](https://img.shields.io/badge/LSTM-4F46E5?style=flat-square)
+![GRU](https://img.shields.io/badge/GRU-4F46E5?style=flat-square)
 
 ### Databases & Cloud
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=mysql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-000000?style=flat-square&logo=amazonwebservices&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-000000?style=flat-square&logo=googlecloud&logoColor=white)
-![ETL](https://img.shields.io/badge/ETL-000000?style=flat-square)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4F46E5?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4F46E5?style=flat-square&logo=mysql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-4F46E5?style=flat-square&logo=amazonwebservices&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4F46E5?style=flat-square&logo=googlecloud&logoColor=white)
+![ETL](https://img.shields.io/badge/ETL-4F46E5?style=flat-square)
 
 ### Tools
 
-![Git](https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-000000?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Codex](https://img.shields.io/badge/Codex-000000?style=flat-square)
+![Git](https://img.shields.io/badge/Git-4F46E5?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-4F46E5?style=flat-square&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-4F46E5?style=flat-square&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-4F46E5?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-4F46E5?style=flat-square)
+![Vercel](https://img.shields.io/badge/Vercel-4F46E5?style=flat-square&logo=vercel&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-4F46E5?style=flat-square)
 
 ---
 
@@ -202,9 +202,9 @@ class AaryaShrivaastava:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AaryaShrivaastava&show_icons=true&hide_border=true&theme=transparent&title_color=0F172A&text_color=334155&icon_color=0F172A" height="165" alt="GitHub stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=AaryaShrivaastava&show_icons=true&hide_border=true&theme=transparent&title_color=4F46E5&text_color=334155&icon_color=6D28D9" height="165" alt="GitHub stats"/>
 
-<img src="https://streak-stats.demolab.com?user=AaryaShrivaastava&theme=dark&background=0F172A&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&border=1E293B&hide_border=false" height="165" alt="GitHub streak"/>
+<img src="https://streak-stats.demolab.com?user=AaryaShrivaastava&theme=dark&background=4F46E5&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&border=6D28D9&hide_border=false" height="165" alt="GitHub streak"/>
 
 </div>
 
@@ -231,9 +231,9 @@ class AaryaShrivaastava:
 
 ### Let's build something that matters.
 
-[![Connect on LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-%23000000.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aarya-shrivaastava-7b198b2a3/)
-[![Portfolio](https://img.shields.io/badge/Visit_Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://aarya-shrivaastava.vercel.app/)
-[![Send an Email](https://img.shields.io/badge/Send_an_Email-%23000000.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aarya.shrivaastava1026@gmail.com)
+[![Connect on LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-%234F46E5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aarya-shrivaastava-7b198b2a3/)
+[![Portfolio](https://img.shields.io/badge/Visit_Portfolio-%234F46E5.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://aarya-shrivaastava.vercel.app/)
+[![Send an Email](https://img.shields.io/badge/Send_an_Email-%234F46E5.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aarya.shrivaastava1026@gmail.com)
 
 <br/>
 
