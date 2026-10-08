@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&section=header&text=AARYA%20SHRIVAASTAVA&fontSize=52&fontAlignY=38&desc=FULL%20STACK%20ENGINEER%20%7C%20AI%20%26%20BACKEND%20ENGINEERING&descAlignY=58&animation=fadeIn&fontColor=ffffff&color=0:0F172A,50:312E81,100:0EA5A4" width="100%" alt="Aarya Shrivaastava"/>
+<img src="https://capsule-render.vercel.app/api?type=wave&height=260&section=header&text=AARYA%20SHRIVAASTAVA&fontSize=52&fontAlignY=38&desc=FULL%20STACK%20ENGINEER%20-%20AI%20%26%20BACKEND%20ENGINEERING&descAlignY=58&fontColor=ffffff&color=0F172A" width="100%" alt="Aarya Shrivaastava"/>
 
 # AARYA SHRIVAASTAVA
 
