@@ -1,15 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=wave&height=260&section=header&text=AARYA%20SHRIVAASTAVA&fontSize=52&fontAlignY=38&desc=SOFTWARE%20ENGINEER%20%7C%20FULL%20STACK%20ENGINEER%20%20AI%20%26%20BACKEND%20ENGINEERING&descAlignY=58&animation=fadeIn&fontColor=ffffff&color=0F172A" width="100%" alt="Aarya Shrivaastava"/>
-
-<br/><br/>
-
-<a href="https://github.com/Tanpreet-singh2005">
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFFFFF&background=00000000&center=true&vCenter=true&width=760&lines=Full+Stack+Engineer+%7C+AI+%26+Backend+Engineering;Building+AI-Driven+Platforms+%26+Scalable+APIs;B.Tech+CSE+%40+VIT+Bhopal+%7C+CGPA+9.07;Python+%7C+C%2B%2B+%7C+FastAPI+%7C+Langflow+%7C+Cloud;AI+Observability+%7C+APIs+%7C+Data+Infrastructure" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&section=header&text=AARYA%20SHRIVAASTAVA&fontSize=52&fontAlignY=38&desc=SOFTWARE%20ENGINEER%20%7C%20FULL%20STACK%20ENGINEER%20%7C%20AI%20%26%20BACKEND%20ENGINEERING&descAlignY=58&animation=fadeIn&fontColor=ffffff&color=0F172A" width="100%" alt="Aarya Shrivaastava"/>
 
 <br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=000000&background=00000000&center=true&vCenter=true&width=760&lines=Full+Stack+Engineer+%7C+AI+%26+Backend+Engineering;Building+AI-Driven+Platforms+%26+Scalable+APIs;B.Tech+CSE+%40+VIT+Bhopal+%7C+CGPA+9.07;Python+%7C+C%2B%2B+%7C+FastAPI+%7C+Langflow+%7C+Cloud;AI+Observability+%7C+APIs+%7C+Data+Infrastructure" alt="Typing SVG"/>
+
+<br/><br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%23000000.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aarya-shrivaastava-7b198b2a3/)
 [![GitHub](https://img.shields.io/badge/GitHub-%23000000.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AaryaShrivaastava)
