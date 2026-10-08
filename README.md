@@ -145,7 +145,6 @@ class AaryaShrivaastava:
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4F46E5?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4F46E5?style=flat-square&logo=mysql&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-4F46E5?style=flat-square&logo=amazonwebservices&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4F46E5?style=flat-square&logo=googlecloud&logoColor=white)
 ![ETL](https://img.shields.io/badge/ETL-4F46E5?style=flat-square)
 
 ### Tools
