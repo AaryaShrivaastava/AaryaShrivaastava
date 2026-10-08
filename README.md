@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:1E293B&height=240&section=header&text=AARYA%20SHRIVAASTAVA&fontSize=46&fontAlignY=34&fontColor=ffffff&desc=Software%20Engineer%20%7C%20Full%20Stack%20%7C%20AI%20%26%20Backend&descAlignY=56&descSize=18" width="100%" alt="Aarya Shrivaastava"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:1E293B&height=240&section=header&text=AARYA%20SHRIVAASTAVA&fontSize=46&fontAlignY=34&fontColor=ffffff&desc=Software%20Engineer%20%7C%20Full%20Stack%20%7C%20AI%20and%20Backend&descAlignY=56&descSize=18" width="100%" alt="Aarya Shrivaastava"/>
 
 <br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F8FAFC&background=00000000&center=true&vCenter=true&width=760&lines=Full+Stack+Engineer+%7C+AI+%26+Backend+Engineering;Building+AI-Driven+Platforms+%26+Scalable+APIs;B.Tech+CSE+%40+VIT+Bhopal+%7C+CGPA+9.07;Python+%7C+C%2B%2B+%7C+FastAPI+%7C+Langflow+%7C+Cloud;AI+Observability+%7C+APIs+%7C+Data+Infrastructure">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0F172A&background=00000000&center=true&vCenter=true&width=760&lines=Full+Stack+Engineer+%7C+AI+%26+Backend+Engineering;Building+AI-Driven+Platforms+%26+Scalable+APIs;B.Tech+CSE+%40+VIT+Bhopal+%7C+CGPA+9.07;Python+%7C+C%2B%2B+%7C+FastAPI+%7C+Langflow+%7C+Cloud;AI+Observability+%7C+APIs+%7C+Data+Infrastructure" alt="Typing intro"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F8FAFC&background=00000000&center=true&vCenter=true&width=760&lines=Full+Stack+Engineer+%7C+AI+and+Backend+Engineering;Building+AI-Driven+Platforms+and+Scalable+APIs;B.Tech+CSE+%40+VIT+Bhopal+%7C+CGPA+9.07;Python+%7C+C%2B%2B+%7C+FastAPI+%7C+Langflow+%7C+Cloud;AI+Observability+%7C+APIs+%7C+Data+Infrastructure">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0F172A&background=00000000&center=true&vCenter=true&width=760&lines=Full+Stack+Engineer+%7C+AI+and+Backend+Engineering;Building+AI-Driven+Platforms+and+Scalable+APIs;B.Tech+CSE+%40+VIT+Bhopal+%7C+CGPA+9.07;Python+%7C+C%2B%2B+%7C+FastAPI+%7C+Langflow+%7C+Cloud;AI+Observability+%7C+APIs+%7C+Data+Infrastructure" alt="Typing intro"/>
 </picture>
 
 <br/><br/>
