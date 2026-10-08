@@ -2,8 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=wave&height=260&section=header&text=AARYA%20SHRIVAASTAVA&fontSize=52&fontAlignY=38&desc=FULL%20STACK%20ENGINEER%20-%20AI%20%26%20BACKEND%20ENGINEERING&descAlignY=58&fontColor=ffffff&color=0F172A" width="100%" alt="Aarya Shrivaastava"/>
 
-# AARYA SHRIVAASTAVA
-
 
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFFFFF&background=00000000&center=true&vCenter=true&width=760&lines=Full+Stack+Engineer+%7C+AI+%26+Backend+Engineering;Building+AI-Driven+Platforms+%26+Scalable+APIs;B.Tech+CSE+%40+VIT+Bhopal+%7C+CGPA+9.07;Python+%7C+C%2B%2B+%7C+FastAPI+%7C+Langflow+%7C+Cloud;AI+Observability+%7C+APIs+%7C+Data+Infrastructure" alt="Typing SVG" />
