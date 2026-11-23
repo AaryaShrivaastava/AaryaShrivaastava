@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:6D28D9,100:7C3AED&height=240&section=header&text=AARYA%20SHRIVAASTAVA&fontSize=46&fontAlignY=34&fontColor=ffffff&desc=Software%20Engineer%20%7C%20Full%20Stack%20%7C%20AI%20and%20Backend&descAlignY=56&descSize=18" width="100%" alt="Aarya Shrivaastava"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F48E5,50:6D28D9,100:7C3AED&height=240&section=header&text=AARYA%20SHRIVAASTAVA&fontSize=46&fontAlignY=34&fontColor=ffffff&desc=Software%20Engineer%20%7C%20Full%20Stack%20%7C%20AI%20and%20Backend&descAlignY=56&descSize=18" width="100%" alt="Aarya Shrivaastava"/>
 
 <br/>
 
@@ -26,7 +26,7 @@
 class AaryaShrivaastava:
     name = "Aarya Shrivaastava"
     education = "B.Tech CSE @ VIT Bhopal"
-    cgpa = 9.07
+    cgpa = 9.11
     graduation = 2027
 
     currently = [
